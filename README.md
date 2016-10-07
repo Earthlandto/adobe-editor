@@ -7,3 +7,11 @@ A npm package to manage Adobe Image Editor dependecies.
 ## Installation
 
 `npm install --save adobe-editorjs`
+
+---
+
+**Migrated repository to https://github.com/Neuromobile/adobe-editorjs**
+
+---
+
+ISC License
